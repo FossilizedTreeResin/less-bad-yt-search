@@ -24,6 +24,8 @@ dragitz's [blocktube filters](https://github.com/dragitz/blocktube-filters).
 
 surasshu's [blocklist for AI music on youtube](https://surasshu.com/blocklist-for-ai-music-on-youtube/).
 
+[my anti-ai and spam list](https://raw.githubusercontent.com/FossilizedTreeResin/less-bad-yt-search/refs/heads/main/yt-spam-channels-blocklist) (merged with surasshu's list).
+
 SEXYISM's [BlockTube-Upload-Range-Blocker](https://github.com/SEXYISM/BlockTube-Upload-Range-Blocker), modified to last month.
 to go nuclar, change it to 2023-01-01.
 
